@@ -1,0 +1,31 @@
+{
+    "name": "vertexinc/connector-magento-public",
+    "type": "metapackage",
+    "description": "Vertex Tax Links for Magento Public",
+    "homepage": "http://go.vertexsmb.com/magento_cbe",
+    "authors": [
+        {
+            "name": "Mediotype",
+            "email": "diveinto@mediotype.com",
+            "homepage": "http://www.mediotype.com/",
+            "role": "Development Company"
+        }
+    ],
+    "support": {
+        "forum": "https://www.vertexinc.com/support"
+    },
+    "keywords": [
+        "tax",
+        "vertex",
+        "magento 2"
+    ],
+    "license": "proprietary",
+    "replace": {
+        "vertex/product-magento-module": "*",
+        "vertex/product-magento-module-commerce": "*"
+    },
+    "require": {
+        "vertexinc/module-tax": "*",
+        "vertexinc/module-address-validation": "*"
+    }
+}
