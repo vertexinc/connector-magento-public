@@ -1,5 +1,5 @@
 {
-    "name": "vertexinc/connector-magento-public",
+    "name": "vertexinc/connector-magento",
     "type": "metapackage",
     "description": "Vertex Tax Links for Magento Public",
     "homepage": "http://go.vertexsmb.com/magento_cbe",
